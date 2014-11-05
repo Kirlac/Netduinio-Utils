@@ -1,4 +1,4 @@
-using Utils.Tools;
+using Utils.Tools;  // Required for the added exceptions.
 using Microsoft.SPOT;
 using SecretLabs.NETMF.Hardware.Netduino;
 using System;
