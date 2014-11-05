@@ -729,7 +729,7 @@ namespace Utils.Tools
             { timeoutCounter = value; }
         }
         private int timeoutDefault = 30;
-        /// <summary>The timeout period in seconds to wait for certain commands. Intial value is 15.</summary>
+        /// <summary>The timeout period in seconds to wait for certain commands. Intial value is 30.</summary>
         public int DefaultTimeout
         {
             get
